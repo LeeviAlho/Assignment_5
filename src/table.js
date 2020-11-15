@@ -1,5 +1,3 @@
-import "./styles.css";
-
 document.getElementById("table").innerHTML = `
 <h1>Tic Tac Toe</h1>
 <table class="center">
