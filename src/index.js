@@ -1,3 +1,4 @@
+/*
 import "./styles.css";
 
 const express = require("express");
@@ -14,5 +15,5 @@ app.get("/qwe", (req, res) => {
 });
 
 app.listen(8080);
-
+*/
 //testi
